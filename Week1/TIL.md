@@ -34,8 +34,8 @@ setAge((a) => a + 1);
 ```
 
 ### 3. 결과 이미지(스크린샷)
+<img width="2879" height="1799" alt="image (5)" src="https://github.com/user-attachments/assets/a258b8d2-1dcf-46dc-81ae-07a6e16b1180" />
 
-- 생략
 
 ### 4. 느낀 점
 
